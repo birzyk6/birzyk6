@@ -7,7 +7,7 @@
 ## 📊 Data Science | 🧠 ML | 📈 Data Visualization
 
 I’m an enthusiastic data science student
-skilled in statistics, data analysis, andcoding,
+skilled in statistics, data analysis, and coding,
 with a flair for designing and building intuitive
 websites and applications.
 
