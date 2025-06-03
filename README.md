@@ -71,6 +71,7 @@ websites and applications.
 | [Wingman - AI Dating Assistant](https://github.com/birzyk6/wingman)              | Django with NetxtJS and Ollama on Docker |
 | [JetBrains Internship Projects](https://github.com/birzyk6/jetbrains-internship) | Data Science Internship tasks            |
 | [Portoflio Website](https://github.com/birzyk6/portfolio)                        | Portfolio Website in React               |
+| [MINST Digit Recognition App](https://github.com/birzyk6/inteligencja-obliczeniowa/tree/main/neural_networks_project) | Digit Recognition Application in Flask and React|
 
 ### 💬 Let's Connect
 
