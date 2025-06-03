@@ -72,6 +72,7 @@ websites and applications.
 | [JetBrains Internship Projects](https://github.com/birzyk6/jetbrains-internship) | Data Science Internship tasks            |
 | [Portoflio Website](https://github.com/birzyk6/portfolio)                        | Portfolio Website in React               |
 | [MINST Digit Recognition App](https://github.com/birzyk6/inteligencja-obliczeniowa/tree/main/neural_networks_project) | Digit Recognition Application in Flask and React|
+| [Solving the Traveling Salesman Problem with genetic algorithms](https://github.com/birzyk6/inteligencja-obliczeniowa/tree/main/neural_networks_project) | Genetic algorithms with Python |
 
 ### 💬 Let's Connect
 
