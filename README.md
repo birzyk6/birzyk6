@@ -10,7 +10,9 @@ and exploring the intersection of AI and software engineering.
 
 ## 🎓 Education & Work
 
+### 🏫 University
 **AGH University of Science and Technology** | Engineering and Data Analysis (3rd year)  
+### 👷‍♂️ Work
 **Sprout Social** | Associate Software Developer - Web
 
 ---
@@ -19,7 +21,6 @@ and exploring the intersection of AI and software engineering.
 
 - Building production web applications at Sprout Social
 - Advancing machine learning and data engineering skills
-- Contributing to open-source projects
 
 ## 🌱 Learning & Growing
 
