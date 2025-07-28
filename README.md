@@ -83,6 +83,7 @@ and exploring the intersection of AI and software engineering.
 | [TSP Genetic Algorithm](https://github.com/birzyk6/inteligencja-obliczeniowa/tree/main/komiwoj) | Optimization solution using genetic algorithms | Python, Algorithms |
 
 </div>
+
 ---
 
 ## 📫 Connect With Me
