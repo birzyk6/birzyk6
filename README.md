@@ -70,7 +70,6 @@ and exploring the intersection of AI and software engineering.
 
 </div>
 
-
 ---
 
 ## 🏆 Featured Projects
